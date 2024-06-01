@@ -17,3 +17,7 @@
 ### How to inference:
 1. Download `inference.py` file and `generator_epoch_50.pth` weight file in weight folder.
 2. Run it, the result will be in the `inferenced_images` folder.
+
+### Sample inference output:
+![](inferenced_images/generated_image_0.png)
+![](inferenced_images/generated_image_1.png)
